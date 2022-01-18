@@ -76,7 +76,7 @@ async def incoming_start_message_f(bot, update):
     #    except Exception:
      #       await bot.send_message(
       #          chat_id=update.chat.id,
-       #         text="Something went Wrong. Contact my [Boss](https://t.me/Nur0ns).",
+       #         text="Something went Wrong. Contact my [Boss](https://t.me/KOT_FREE_DE_LA_HOYA_OFF).",
         #        parse_mode="markdown",
          #       disable_web_page_preview=True)
           #  return
@@ -86,7 +86,7 @@ async def incoming_start_message_f(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('SOURCE CODE', url='https://t.me/tellybots')
+                    InlineKeyboardButton('SOURCE CODE', url='https://t.me/KOT_SOURCE_CODE')
                 ]
             ]
         ),
@@ -104,7 +104,7 @@ async def incoming_compress_message_f(update):
   #        if user.status == "kicked":
   #           await bot.send_message(
   #               chat_id=update.chat.id,
-  #               text="Sorry Sir, You are Banned to use me. Contact my [BOSS](https://t.me/Nur0ns).",
+  #               text="Sorry Sir, You are Banned to use me. Contact my [BOSS](https://t.me/KOT_FREE_DE_LA_HOYA_OFF).",
   #               parse_mode="markdown",
   #               disable_web_page_preview=True
     #         )
@@ -128,7 +128,7 @@ async def incoming_compress_message_f(update):
     #  except Exception:
     #      await bot.send_message(
     #          chat_id=update.chat.id,
-    #          text="Something went Wrong. Contact my [BOSS](https://t.me/Nur0ns).",
+    #          text="Something went Wrong. Contact my [BOSS](https://t.me/KOT_FREE_DE_LA_HOYA_OFF).",
     #          parse_mode="markdown",
     #          disable_web_page_preview=True
     #      )
