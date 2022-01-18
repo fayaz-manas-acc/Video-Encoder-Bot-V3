@@ -6,8 +6,7 @@ from bot.get_cfg import get_config
 
 
 class Localisation:
-    START_TEXT = "HᴇʟʟO, \n\nTʜɪꜱ Iꜱ ᴀ Tᴇʟᴇɢʀᴀᴍ  <b>Vɪᴅᴇᴏ Eɴᴄᴏᴅᴇʀ Bᴏᴛ ᴠ3</b>. \n\n<b>Sᴇɴᴅ Mᴇʜ Aɴy Tᴇʟᴇɢʀᴀᴍ Bɪɢ Vɪᴅᴇᴏ/Fɪʟᴇ ɪ Wɪʟʟ Cᴏᴍᴩʀᴇꜱꜱ Iᴛ
-Aꜱ ᴀ Sᴍᴀʟʟ Vɪᴅᴇᴏ/Fɪʟᴇ</b> \n\n/help for More details. \n\nChannel : @FIERCENETWORK Made By @KajiuAF"
+    START_TEXT = "HᴇʟʟO,\n\nTʜɪꜱ Iꜱ ᴀ Tᴇʟᴇɢʀᴀᴍ<b>Vɪᴅᴇᴏ Eɴᴄᴏᴅᴇʀ Bᴏᴛ ᴠ3</b>.\n\n<b>Sᴇɴᴅ Mᴇʜ Aɴy Tᴇʟᴇɢʀᴀᴍ Bɪɢ Vɪᴅᴇᴏ/Fɪʟᴇ ɪ Wɪʟʟ Cᴏᴍᴩʀᴇꜱꜱ Iᴛ Aꜱ ᴀ Sᴍᴀʟʟ Vɪᴅᴇᴏ/Fɪʟᴇ Bᴏᴛ Mᴀᴛɪɴᴇᴅ/Cʀᴇᴀᴛᴏʀ By :@KOT_BOTS | @KOT_FREE_DE_LA_HOYA_OFF | @KOT_REPORS</b>"
    
     ABS_TEXT = " Please don't be selfish."
     
@@ -24,7 +23,7 @@ Aꜱ ᴀ Sᴍᴀʟʟ Vɪᴅᴇᴏ/Fɪʟᴇ</b> \n\n/help for More details. \n\nC
     
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations."
     
-    COMPRESS_SUCCESS = "©️ @FIERCENETWORK"
+    COMPRESS_SUCCESS = "©️ @KOT_BOTS | @KOT_FREE_DE_LA_HOYA_OFF | @KOT_REPORS"
 
     COMPRESS_PROGRESS = "⏳ ETA: {}\n🚀 Progress: {}%"
 
@@ -48,7 +47,7 @@ Aꜱ ᴀ Sᴍᴀʟʟ Vɪᴅᴇᴏ/Fɪʟᴇ</b> \n\n/help for More details. \n\nC
     
     HELP_MESSAGE = get_config(
         "STRINGS_HELP_MESSAGE",
-        "Hi, I am Video Compressor Bot \n\n1. Send me your telegram big video file \n2. Reply to the file with: `/compress 50` \n\nSupport: @NIRUSAKI"
+        "Hi, I am Video Compressor Bot \n\n1. Send me your telegram big video file \n2. Reply to the file with: `/compress 50` \n\n𝗕𝗢𝗧 𝗠𝗔𝗜𝗡𝗧𝗔𝗜𝗡/𝗠𝗔𝗗𝗘 𝗕𝗬 : @KOT_BOTS | @KOT_FREE_DE_LA_HOYA_OFF | @KOT_REPORS"
     )
     WRONG_MESSAGE = get_config(
         "STRINGS_WRONG_MESSAGE",
